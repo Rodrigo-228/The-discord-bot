@@ -28,7 +28,7 @@ async def on_ready():
 
 @bot.command()
 async def bot_page(ctx):
-    await ctx.send('http://127.0.0.1:3000/bot_page.html')
+    await ctx.send('https://rodrigo-228.github.io/The_Bot_Page/')
 
 chars=['Bishop', 'Goblin', 'Golem', 'Hornet', 'King_Slime', 'Slime']
 spells=['Explosion', 'Fuego', 'Hielo', 'Rayo']
